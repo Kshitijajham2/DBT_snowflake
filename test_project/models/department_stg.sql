@@ -1,0 +1,6 @@
+
+    select
+	DEPTCODE ,
+	DEPTNAME ,
+	LOCATION 
+	from TEST_DB.TEST.DEPARTMENT 

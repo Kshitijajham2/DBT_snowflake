@@ -1,0 +1,1 @@
+select role_id,role_name from test_db.test.employee_roles
